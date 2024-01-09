@@ -13,3 +13,5 @@ requests==2.31.0
 setuptools==60.2.0
 urllib3==2.1.0
 wheel==0.37.1
+
+Faker~=22.1.0

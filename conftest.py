@@ -2,9 +2,9 @@ import pytest
 import requests
 from faker import Faker
 
-from Diplom_2.handlers import Handlers
-from Diplom_2.helpers import make_new_fake_user_and_return_data as fake_user
-from Diplom_2.urls import Urls
+from handlers import Handlers
+from helpers import make_new_fake_user_and_return_data as fake_user
+from urls import Urls
 
 fake = Faker(locale="ru_RU")
 

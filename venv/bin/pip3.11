@@ -1,4 +1,4 @@
-#!/Users/almihalev/yandex/Diplom_qa_python/Diplom_2/venv/bin/python3.11
+#!/Users/almihalev/yandex/Diplom_qa_python/Diplom_2/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
